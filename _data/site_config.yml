@@ -79,6 +79,7 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
+    <!--
   - title: Lorem ipsum
     content: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
@@ -95,6 +96,7 @@ frontpage_cards:
     button_label: Read more
     button_link: https://example.com
     rule_color: ''
+    -->
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_shorter
